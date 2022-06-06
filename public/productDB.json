@@ -1,0 +1,68 @@
+[
+    {
+        "strMeal": "Baked salmon with fennel & tomatoes",
+        "strMealThumb": "https:\/\/www.themealdb.com\/images\/media\/meals\/1548772327.jpg",
+        "idMeal": "52959",
+        "price": 4.60
+    },
+    {
+        "strMeal": "Cajun spiced fish tacos",
+        "strMealThumb": "https:\/\/www.themealdb.com\/images\/media\/meals\/uvuyxu1503067369.jpg",
+        "idMeal": "52819",
+        "price": 3.65
+    },
+    {
+        "strMeal": "Escovitch Fish",
+        "strMealThumb": "https:\/\/www.themealdb.com\/images\/media\/meals\/1520084413.jpg",
+        "idMeal": "52944",
+        "price": 2.60
+    },
+    {
+        "strMeal": "Fish fofos",
+        "strMealThumb": "https:\/\/www.themealdb.com\/images\/media\/meals\/a15wsa1614349126.jpg",
+        "idMeal": "53043",
+        "price": 5.60
+    },
+    {
+        "strMeal": "Fish pie",
+        "strMealThumb": "https:\/\/www.themealdb.com\/images\/media\/meals\/ysxwuq1487323065.jpg",
+        "idMeal": "52802",
+        "price": 3.70
+    },
+    {
+        "strMeal": "Fish Stew with Rouille",
+        "strMealThumb": "https:\/\/www.themealdb.com\/images\/media\/meals\/vptqpw1511798500.jpg",
+        "idMeal": "52918",
+        "price": 7.60
+    },
+    {
+        "strMeal": "Garides Saganaki",
+        "strMealThumb": "https:\/\/www.themealdb.com\/images\/media\/meals\/wuvryu1468232995.jpg",
+        "idMeal": "52764",
+        "price": 1.60
+    },
+    {
+        "strMeal": "Grilled Portuguese sardines",
+        "strMealThumb": "https:\/\/www.themealdb.com\/images\/media\/meals\/lpd4wy1614347943.jpg",
+        "idMeal": "53041",
+        "price": 6.60
+    },
+    {
+        "strMeal": "Honey Teriyaki Salmon",
+        "strMealThumb": "https:\/\/www.themealdb.com\/images\/media\/meals\/xxyupu1468262513.jpg",
+        "idMeal": "52773",
+        "price": 3.70
+    },
+    {
+        "strMeal": "Kedgeree",
+        "strMealThumb": "https:\/\/www.themealdb.com\/images\/media\/meals\/utxqpt1511639216.jpg",
+        "idMeal": "52887",
+        "price": 3.90
+    },
+    {
+        "strMeal": "Kung Po Prawns",
+        "strMealThumb": "https:\/\/www.themealdb.com\/images\/media\/meals\/1525873040.jpg",
+        "idMeal": "52946",
+        "price": 3.40
+    }
+]

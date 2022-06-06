@@ -1,0 +1,13 @@
+.holder:hover{
+    background-color: rgb(138, 170, 169);
+   
+}
+.holder{
+    transition: background-color 400ms ease-in;
+}
+.price{
+    background-color: rgb(64, 100, 76);
+    color: white;
+    border-radius: 5px;
+    padding: 0 3px 0 3px;
+}

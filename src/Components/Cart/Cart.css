@@ -1,0 +1,25 @@
+.cart-button{
+    background-color: rgb(164, 189, 211);
+    margin: 4px;
+    padding: 5px;
+    border-radius: 6px;
+}
+.cart{
+    background-color: rgb(197, 197, 163);
+    border-radius: 8px;
+}
+.selected-items{
+    background-color: aliceblue;
+    padding: 30px;
+    margin: 5px;
+    
+}
+.item{
+    background-color: rgba(114, 180, 112, 0.247);
+    border-radius: 7px;
+   margin: 2px;
+}
+.img{
+    width: 60px;
+    height: 40px;
+}
